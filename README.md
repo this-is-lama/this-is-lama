@@ -1,10 +1,10 @@
-Hi 👋 My name is Islam Ahmatgaliev
+Привет 👋 Меня зовут Ислам
 ==================================
 
-Java Developer
+Обо мне
 --------------
 
-I am a novice Java Backend developer. My path to it started with the JavaRush course, I enjoyed writing in Java and continued to study Java in depth: I took a course on SwiftBook, I write pet projects - for example, I recently made a REST API for managing tasks on Spring Boot. Now I am actively solving algorithmic problems and want to start a career as a junior Java developer in order to work in a team on real products.
+Я начинающий Java Backend разработчик. Мой путь к it начался с курса JavaRush, мне понравилось писать на Java, и я продолжил углубленно изучать Java: я прошел курс по SwiftBook, пишу любимые проекты - например, недавно я создал REST API для управления задачами в Spring Boot. Сейчас я активно решаю алгоритмические задачи и хочу начать карьеру младшего Java-разработчика, чтобы работать в команде над реальными продуктами.
 
 *   🌍  I'm based in Russia, Kazan
 *   ✉️  You can contact me at [islamahmatgaliev0354@gmail.com](mailto:islamahmatgaliev0354@gmail.com)
