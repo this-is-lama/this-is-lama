@@ -35,8 +35,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="spring boot logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rest/FF5733" height="40" alt="rest api logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
