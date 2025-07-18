@@ -54,7 +54,7 @@
 
 
 <div align="center">
-  ![](https://leetcard.jacoblin.cool/this_is_lama?animation=true)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/this_is_lama?theme=dark)
   <img src="https://streak-stats.demolab.com?user=this-is-lama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
