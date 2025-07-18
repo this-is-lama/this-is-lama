@@ -54,15 +54,15 @@
 
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/this_is_lama?theme=dark" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=this-is-lama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://leetcard.jacoblin.cool/this_is_lama?theme=dark" height="170" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=this-is-lama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" width="400" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=this-is-lama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-lama&locale=en&hide_title=false&card_width=540&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=this-is-lama&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" width="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=this-is-lama&locale=en&hide_title=false&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" width="400" alt="languages graph"  />
 </div>
 
 ###
