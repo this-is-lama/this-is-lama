@@ -29,24 +29,45 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="spring boot logo"  />
+  
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="spring boot logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
+  
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring cloud logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  
+  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="kafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="jwt logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/minio/C72E49" height="40" alt="minio logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-###
 
 <h3 align="left">🔥   Моя статистика :</h3>
 
