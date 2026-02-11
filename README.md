@@ -38,9 +38,6 @@
   <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="40" alt="spring boot logo" />
   <img width="12" />
   
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring cloud logo" />
-  <img width="12" />
-  
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="kafka logo" />
   <img width="12" />
   
