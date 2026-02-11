@@ -44,7 +44,7 @@
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="kafka logo" />
   <img width="12" />
   
-  <img src="[https://cdn.simpleicons.org/redis/DC382D](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/redis-logo)" height="40" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
@@ -56,7 +56,7 @@
   <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo" />
   <img width="12" />
   
-  <img src="[https://cdn.simpleicons.org/jsonwebtokens/000000](https://w7.pngwing.com/pngs/353/839/png-transparent-jwt-hd-logo.png)" height="40" alt="jwt logo" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" height="40" alt="jwt logo" />
   <img width="12" />
   
   <img src="https://cdn.simpleicons.org/minio/C72E49" height="40" alt="minio logo" />
